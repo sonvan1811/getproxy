@@ -15,3 +15,5 @@ Download source code file and UNZIP File
 `cd getproxy-master`
 
 `python gp.py`
+
+# Tool interface
